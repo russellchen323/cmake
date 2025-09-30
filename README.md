@@ -9,7 +9,7 @@ Compiling cross-languages and cross-platform are significant challenge cuz compi
 CMake main concept: Configrature :arrow_right: Generation :arrow_right: Built
 
 <p align="center">
-  <img width="580" height="460" src="https://github.com/russellchen323/cmake-tutorial/blob/main/CMake's%20config_gener_built.jpg">
+  <img width="580" height="460" src="https://github.com/russellchen323/cmake/blob/main/CMake's%20config_gener_built.jpg">
 </p>
 
 
@@ -843,7 +843,7 @@ Verfication function is work by compilered file.
 ## :octocat: Result screenshot
 - User can see that the file cross-compiled by cmake successfully recognizes the handwritten image.
 
-![image](https://github.com/russellchen323/cmake-tutorial/blob/main/Result%20of%20image.jpg)
+![image](https://github.com/russellchen323/cmake/blob/main/Result%20of%20image.jpg)
 
 
 - To trying swap model, Is the recognition rate improved?
